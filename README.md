@@ -3,7 +3,7 @@ This Web App helps us make a list of all the goals we want to achieve in a day.
 
 [VIEW LIVE ](https://tanushka11.github.io/Task-Management-Web-App/)
 
-## SCREENSHOTS FOR THE WEB APP ##
+## SCREENSHOTS OF THE WEB APP ##
 
 ### Before Creating lists ###
  
